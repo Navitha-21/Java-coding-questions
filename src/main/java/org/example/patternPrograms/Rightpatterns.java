@@ -1,4 +1,4 @@
-package org.example.basicPrograms;
+package org.example.patternPrograms;
 
 import java.util.Scanner;
 

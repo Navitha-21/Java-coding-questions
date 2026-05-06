@@ -1,4 +1,4 @@
-package org.example.basicPrograms;
+package org.example.patternPrograms;
 
 public class PyramidPattern {
     public static void main(String[] args) {
